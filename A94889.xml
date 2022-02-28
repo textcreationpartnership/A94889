@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account, set up out the informations, intercepted letters, and others authentiq instruments, concerning the horrid conspiracy, against the life of his sacred Majesty, William the III. King of England, Scotland, France &amp; Yreland, &amp;c. setting forth by whom it was contrived, how it was to bee carryed on, &amp; the manner of its discovery, trial, sentence, and execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94889</idno>
+            <idno type="STC">Wing T2409B</idno>
+            <idno type="STC">ESTC R229705</idno>
+            <idno type="EEBO-CITATION">99899247</idno>
+            <idno type="PROQUEST">99899247</idno>
+            <idno type="VID">152749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account, set up out the informations, intercepted letters, and others authentiq instruments, concerning the horrid conspiracy, against the life of his sacred Majesty, William the III. King of England, Scotland, France &amp; Yreland, &amp;c. setting forth by whom it was contrived, how it was to bee carryed on, &amp; the manner of its discovery, trial, sentence, and execution.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Jacobus Scheltus, ordinary printer of the Kings Majesty,</publisher>
+                  <pubPlace>Printed ad the Haghe [i.e. Hague] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 9 has drop-head title: Sentence of the Chevallier the Grandval.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Conspiracy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152749:1" rendition="simple:additions"/>
+            <p>A TRUE ACCOUNT, Set up out the informations, in<g ref="char:EOLhyphen"/>tercepted Letters, and others authentiq Inſtruments, concerning the horrid Conſpiracy, againſt the Life of his Sacred Majeſty, WILLIAM the III. King of England, Scotland, France &amp; Yreland, &amp;c. ſet<g ref="char:EOLhyphen"/>ting forth by whom it was contrived, how it was to bee carryed on, &amp; the manner of its Diſcovery, Trial, Sentence, and Execution.</p>
+            <p>Printed ad the HAGHE, By JACOBUS SCHELTUS, Ordinary Printer of the Kings Majeſty. 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:152749:2"/>
+            <pb n="3" facs="tcp:152749:2"/>
+            <head>
+               <hi>A TRUE ACCOUNT,</hi> Set up out the informations, intercepted Letters, and others authentiqs Inſtruments, concerning the horrid Conſpi<g ref="char:EOLhyphen"/>racy, againſt the Life of his Sacred Majeſty <hi>WILLIAM</hi> the <hi>III.</hi> King of England, Scotland, France &amp; Yreland, &amp;c. ſet<g ref="char:EOLhyphen"/>ting forth by whom it was contrivid, how it was to bee car<g ref="char:EOLhyphen"/>ryedon, &amp; the manner of its Diſcouvery, Trial, Sentence, and Execution.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">S</seg>Ome of the Miniſters in the higheſt Employments, &amp; of the greateſt credit in the French Court, having formed a Deſigne to aſſaſ<g ref="char:EOLhyphen"/>ſinate His Maj. of Great Britaine, they made choiçe of one Bartholomew de Liniere, Knight, Sieur de Grandvall, as their inſtrument to manage the enterpri<g ref="char:EOLhyphen"/>ze, to find out Perſons fitt to bee employed in it, to engage them by promiſes of great rewards, as alſo to bee ayding &amp; aſſi<g ref="char:EOLhyphen"/>ſting in his owne perſon.</p>
+               <p>The ſaid Grandvall being informed that one Anthony Du Mont had been already engaged in this deſigne, in the life time of the late Marquis of Louvois, hee propoſed it to him again, to Execute the ſame, by order of the Marquis of Barbeſieux &amp; ſome others, wher upon ſeverall Projects were drawn up, ſever<g ref="char:EOLhyphen"/>all petitions deliver'd, and many Conferences were held, and at laſt the Reſolution was taken to bring it to effect the laſt Cam<g ref="char:EOLhyphen"/>pagne 1691. But the providence of God having disappointed them, yet not withſtanding they did not lett fall the proſecution of their horrid Deſigne. But Grandvall was employed to write frequently to Du Mont (who was retired to Hanover) to ſtirr him up to another attempt this Campagne, which at laſt they agreed upon.</p>
+               <p>One Leefdale coming to Paris about that time, Grandvall
+<pb n="4" facs="tcp:152749:3"/>making an acquaintance with him, diſcoverd to him the ſaid de<g ref="char:EOLhyphen"/>ſigne, which Leefdale ſhewed a willingnes to bee concernd in. But ſoone after gave notice of it by Letters to his Relations in Holland, that they might inform his Majeſty. And the like Diſco<g ref="char:EOLhyphen"/>very was made by Du Mont to his Highneſs the Duke of Cell, who acquainted his Maj. with it, about the ſame time, that hee re<g ref="char:EOLhyphen"/>ceived the other account.</p>
+               <p>In the mean time Grandvall having appointed Du Mont a rendezvous at Uden, in the country of Raveſteyn, in order to ſpeak with him and Leefdale, to communicate him the meſures, taken about the deſigne, and afterwards to goe to the execution. Hee ſett out from Paris, in company with Leefdale, paſſing through Bruxells, where hee communicated his Deſigne to one John d'Amours, who was formerly a Domeſtick Servant to Leefdales Father, from thence they went to Antwerp, &amp; ſo to Eyndhoven, where Grandval was ſeized &amp; carryed to Boisle Duc.</p>
+               <p>His Maj. directing the examination to bee taken there, Leef<g ref="char:EOLhyphen"/>dale was firſt examin'd, who declared with great Exactnes all the circumſtances of the Deſigne, but it is not neceſſary to mention more of them here, then that Grandvall told him, the King of Great Britaine was look'd upon as the onely obſtacle to the French Kings Deſigns. That Grandvall had ſent to Du Mont laſt Winter above 200. Piſtoles to keep him firme to the buſineſs. That whilſt they were at Mons, a report being ſpread of ſome diſorders in Schotland, which would oblige his Maj. to croſs the ſea again, Grandvall fearing it might happen before hee could Execute his Deſigne, ſpoke to Leefdale in theſe words, Dear Friend, wee are like to looſe our Fortunes, I beg of you, that wee may go away immediately.</p>
+               <p>John d'Amours being next Examind, depoſed that Grandvall told him att Bruxells, he had a Great buſineſs to do, which had miscarryed the laſt year. And they two falling into a diſcourſe
+<pb n="5" facs="tcp:152749:3"/>about his Maj., John d'Amours asked Grandvall, if hee had any thing to ſay to the King, yes, anſwerd hee, to break his neck. John d'Amours repreſenting to him the difficultys that might attend ſuch an attempt, Grandval replyed, I have gi<g ref="char:EOLhyphen"/>ven my word to Monſr Barbeſieux, &amp; I'le do it.</p>
+               <p>D'Amours adds further that going one day with Grandval &amp; Leefdale by the Jeſuits Church att Bruxells; Grandvall ſaid, lett Us go in, &amp; ſay a Pater noſter or two, that God would bles our undertaking, and accordingly, they went into the Church</p>
+               <p>Du Mont having been Examined ſince, has owned the fact in all its circumſtances, adding ſeverall other particulars (viꝪt.) that Madame Maintenon was acquainted with the Deſigne, and that Grandvall in one of his Letters ſend to him, uſed this ex<g ref="char:EOLhyphen"/>preſſion, that hee would accommodate the matter by the means of Madame Maintenon. That Grandvall told him, the buſi<g ref="char:EOLhyphen"/>neſs ſucceeding, hee (ſpeaking of him ſelfs) ſhould have an ample recompenſe, even to bee a Duke. That whilſt hee was at Hanavor, hee imparted the Deſigne to Monſr. Bidal (alias Hasfelt) who was at that time the French Kings Miniſter in that Court, that hee ſhewd to the ſaid Monſr. Bidall all the Letters, hee writt to Monſr. Barbeſieux &amp; Grandvall, as alſo the anſwers hee received from them, that the ſaid Bidall approved the Deſigne, ſaying it would bee a very good buſineſs, if it could bee brougt to paſſe; and that Biddall lent him 50 Crowns at Hanover.</p>
+               <p>Du Mont adds further, that hee was intimately acquainted with one Muller an Agent for Bidall, that the ſaid Muller told him as a great Secret, that Bidall had ſent him ſeveral times to Holland with diſpatches, that came from France, for Monſr. Moreau, Envoy to the King of Poland; That hee always gave thoſe Packetts, in to Mr. Moreaus owne hand, &amp; Monſr. Mo<g ref="char:EOLhyphen"/>reau gave him the anſwers to them in like manner, and that thus by the help of Monſr. Bidall &amp; Monſr. Moreau, the Court of France manag'd their choiçeſt correſpondence in Holland.</p>
+               <pb n="6" facs="tcp:152749:4"/>
+               <p>At laſt Grandval was examind who perceiving that to matter was diſcover'd, and that his owne Letters could bee produced to convict him, he Ingenuouſly confeſſed all the circumſtances of the Deſigne, as they are particularized in the Sentence.</p>
+               <p>After which Grandvall being brought to the Army, hee was putt upon his tryall before a Grand Court Martiall conſiſting of Generall Officiers, wher hee appear'd ſeverall times, together with the Wittneſſes above mention'd, who not onely perſiſted in what they had already depoſed, but added many other particulars and circumſtances, of which ther were very few, that Grandval did not agree to, and that freely, without putting him upon, or ſo much as naming the Rack to him, either before, or after Sentence.</p>
+               <p>Grandvall during his Impriſonnement drew up two petitions to bee preſented to his Majeſty, all written with his owne hand, in which hee ſays, <hi>that as to the before mention'd Deſigne, hee acted in it, but in obedience to the ordres hee had received from Monſr. Barbeſieux &amp; Monſr. Chanlais, that du Mont was guilty, that Leefdale was guilty, &amp; that hee (Grandvall) was guilty, ſince every one that conſpires againſt a Cowned Head, is worthy of death, acknowledging his owne fault.</hi>
+               </p>
+               <p>The Judges after this having mett ſeverall times, at laſt gave their Sentence the 11 of Auguſt, in perſuance of which Sentence Grandvall being acqainted that he was to dye the 13 of Auguſt. He did give all the marks of a true repentance of his crimes, and the ſame morning before he went to execution he writt in the preſence of the Fiſcal, the Miniſters and two other Perſons this following Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <dateline>From the Camp at Hall <date>
+                              <hi>13</hi> Auguſt <hi>1692.</hi>
+                           </date>
+                        </dateline>
+                        <salute>Madam,</salute>
+                     </opener>
+                     <p>I Pray you to goo to the Arch Biſhop of Rheims, with Monſr. Tourduil, and to let the ſaid Arch Biſhop know that it koſts
+<pb n="7" facs="tcp:152749:4"/>me my life, for haveing obeyd the orders of Monſieur de Barbe<g ref="char:EOLhyphen"/>ſieux, which is the favour deſired of you by.</p>
+                     <closer>
+                        <signed>Your Servant, DE GRANDVALL.</signed>
+                     </closer>
+                     <postscript>
+                        <p>Speak to the Marquis d'Arſy, that he take care y be prayd for.</p>
+                     </postscript>
+                     <trailer>To Madam Juré, in the Trenelle Street, over againſt the Street of the two Crowns, near the Hotell of Soiſſons, Att Paris.</trailer>
+                  </body>
+               </floatingText>
+               <p>Upon the occaſion of this Letter it wil not be improper, to take notice of a paſſage that happened ſome dayes before Grand<g ref="char:EOLhyphen"/>vals condemnation vitz:; one diſcourſing with the Chevallier Grandvall in Priſon, and obſerving he ſought to juſtify himſelfe upon the orders he had received from the Marquis of Barbeſieux, he told him, tho that was in itſelfe a very weak excuſe for being en<g ref="char:EOLhyphen"/>gaged in ſo baſe an action, yet ſtill it might prove ſo much the wor<g ref="char:EOLhyphen"/>ſe, as that it was like enough, Monſieur Barbeſieux would diſow<g ref="char:EOLhyphen"/>ne that he gave any ſuch orders, or that he was any way concern'd with him in a Buſineſs of this nature: to which Grandvall replyed, let him deny what he pleaſes; yet if I were put upon it, I would make it appear very plaine, for I have an original Paper under Monſieur Barbeſieux owne hand, which I have lodged whith a Friend of mine, who wil not part with it, to anyone but my ſelfe and nobody elſe knows, with whom I have entruſted it. About el<g ref="char:EOLhyphen"/>leven of the clock in the morningh was the ſaid Grandval drawn on a hedge to the place of execution, where the Sentence was read, and the prayer done in the Frenſch Tongue, which he liked to hear very earnſtly, and afterwards did the executors their work, in order to the Sentence.</p>
+               <closer>
+                  <hi>God bleſs King</hi> WILLIAM <hi>and Queen</hi> MARY.</closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:152749:5"/>
+               <pb n="9" facs="tcp:152749:5"/>
+               <head>SENTENCE Of the CHEVALLIER the GRANDVAL.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas Bartholomew de Liniere, Knight, Sieur de Grandvall, Borne at Liniere in Picardy, aged about 43 years, &amp; now a priſon<g ref="char:EOLhyphen"/>ner, hath confeſſed before the Grand Court Mar<g ref="char:EOLhyphen"/>tiall without any conſtraints by pain or being in irons. And it further appearing to the ſaid Court Martiall, that the late Marquis de Louvois in his Lifeti<g ref="char:EOLhyphen"/>me Secretary of State to the French King in the year 1691 enter'd into an agreement with one Anthony du Mont, about the mur<g ref="char:EOLhyphen"/>ther of his Majeſty William the III. King of Great Britaine, &amp;c. And that the ſaid du Mont had framed a project ſetting forth in wat manner that deſigne might bee executed. That hee delivered the ſaid project, to the ſaid Marquis of Louvois. That the Pri<g ref="char:EOLhyphen"/>ſoner ſome time before the Marquis of Louvois death, aſking his leave to go ſome where elſe, was order'd by the ſaid Marquis not to go away, for that hee had ſome buſineſs of conſequence to em<g ref="char:EOLhyphen"/>ploy him in, which the priſoner ſuppoſes to have ſome relation to the ſaid Deſign, but the Marquis of Louvois dying ſome time af<g ref="char:EOLhyphen"/>ter, ther was no further progreſs then made in the ſaid Deſigne. That the Marquis of Barbeſieux ſon to the ſaid Marquis of Lou<g ref="char:EOLhyphen"/>vois, as alſo Secretary of State to the French King having five days after his Fathers death, found the ſaid project together with a warrant for 30 Piſtoles to bee payd to the ſaid du Mont among his Fathers Papers, the ſaid Deſigne was revived again, &amp; the 30 Piſtoles were payd accodingly; that the Priſoner contracted an acquaintance with du Mont at Monſieur Rebenacs Houſe, where Monſieur Paparel, Pay-maſter General to the French
+<pb n="10" facs="tcp:152749:6"/>Kings Armyes, ſaying one day to Monſieur Rebenac (the Priſo<g ref="char:EOLhyphen"/>ner being preſent) that if they had a mind to ſeize the King of Eng<g ref="char:EOLhyphen"/>land, du Mont would bee a fitt Perſon for it, du Mont replyed with execrations, that hee would carry of his Majeſty alive, or dead, as hee had promiſed to Monſieur de Louvois. That du Mont having delivred the ſame, or the like project to Monſieur de Barbeſieux, the Priſoner to promote the ſaid Deſigne had ſe<g ref="char:EOLhyphen"/>veral conferences with Monſieur Barbeſieux &amp; Monſieur Paparel, in one of which, Monſieur Barbeſieux told the Priſoner, that hee ſuſpected, his Father was poyſon'd, by order of the P. of Orange (meaning his preſent Majeſty of Great Britaine) and ther<g ref="char:EOLhyphen"/>fore hee would be reveng'd on him. That Monſr. Barbeſieux told the Priſoner in another conference, that hee ſhould give du Mont notice, that his Majeſty of Great Britaine wore a Coat of Maile, which the priſoner acquainting du Mont with, hee anſ<g ref="char:EOLhyphen"/>werd ther upon, it is no matter, I'le kill him for all that. That Barbeſieux had ſaid further, hee would not ſpeak himſelf with du Mont, fearing hee might bee taken Priſoner, and if hee ſhould happen then to name him, it might make a great breach in his fortune. That the Priſoner was engaged wit one Parker a Colonel belonging to the late King James, to put the ſaid Deſigne in execu<g ref="char:EOLhyphen"/>tion, and that Parker had thold him, hee had formed the ſaid De<g ref="char:EOLhyphen"/>ſign with the late Marquis of Louvois. That at laſt the Priſoner with the ſaid Barbeſieux, Paparel, Parker &amp; du Mont agreed upon the manner of executing the ſaid deſigne: viꝪt: that the Priſoner &amp; Parker ſhould meet att the Grand Guard of the Duke of Lux<g ref="char:EOLhyphen"/>embourgs Army, where they were to have 1500. Horſe, that Du Mont ſhould go to the King of Englands Army, &amp; watch the time, when his Majeſty went to viſitt the Grand Guard, and att the ſame time hee was to ſhoot His Majeſty; that the Priſoner &amp; Parker with 1500. Horſe were to reſcue &amp; bring him of, the ſaid Du Mont geving timely notice to the Priſoner of the Inten<g ref="char:EOLhyphen"/>ded Execution. That Monſr. Barbeſieux giving the Priſoner
+<pb n="11" facs="tcp:152749:6"/>orders to accompany Du Mont to Menin, hee gave him at the ſame time an order to the Duke of Luxemburg, for furnishing the Priſoner with ſuch a Detachment of Horſe, as hee ſhould re<g ref="char:EOLhyphen"/>quire &amp; think neceſſary for Executing the Deſigne. That the Priſoner by Monſr. Barbeſieux order received of Monſr. Paparell 80. Lewis d'Or. And in purſuance of Mr. Barbeſieux directions he gave to Du Mont 55. Lewis d'Or, out of that ſum, viꝪt 15. Piſtolls in ſpecie &amp; à Bill of Enchange for 460. Livres French Mony, to bee payd at Ghent: That the Priſoner accordingly left Paris, the 11. of Sept. 1691. &amp; went poſt with Du Mont to Menin, that hee defrayd the whole charge of the Journy, that Du Mont acquainted him on the way that Monſr. Barbeſieux had promiſed him an annuall revenue of 20000. livres, &amp; to make him a Knight of the Order of St. Lazarus, in caſe the deſign took effect. That the Priſoner, coming to Menin, went to the Governor Monſr Pertuis, as hee had been directed by Monſr. Barbeſieux, and obtaind of him a Paſſeport for Du Mont, who parted im<g ref="char:EOLhyphen"/>mediately for Ghent, promiting the Priſoner, that according to their agreement, hee would ſend to him att the Grand Guard. That the Priſoner ther upon went to the Duke of Luxemburgs Army, and hee and Parker continued att the head of the Grand Guard till the day before the rencontre at Leuze without hearing from Du Mont. That Du Mont going to Hanover, the Priſo<g ref="char:EOLhyphen"/>ner had kept a conſtant correſpondence with him, about Execu<g ref="char:EOLhyphen"/>ting the ſame deſigne at ſome other opportunity, that the Pri<g ref="char:EOLhyphen"/>ſoner communicated what Letters hee received from Du Mont, to Mr. Barbeſieux, who gave him directions wat anſwers hee ſhould returne. That the Priſoner reſolved with Monſieur Barbeſieux, that the Deſigne ſhould bee Executed this Campagne Anno 1692. which had failed the laſt, that the Priſoner had ta<g ref="char:EOLhyphen"/>ken ſome meaſures concerning the ſame with Monſr Chanlais Quarter-maſter Generall to the French King. In the mean time one Frederick Aelbregt Leefdael, heretofore Cap. Lt. of a troop
+<pb n="12" facs="tcp:152749:7"/>of Dragoons in the ſervice of the High &amp; Mighty States General of the United Provinces coming to Paris, was brought acquain<g ref="char:EOLhyphen"/>ted with the Priſoner by the means of one Sterck. That the Pri<g ref="char:EOLhyphen"/>ſoner having contracted an intimate familiarity with the ſaid Leef<g ref="char:EOLhyphen"/>dale, diſcover'd the ſaid Deſigne to him towards the latter end of March laſt 1692, telling him that an Officer who woul ingratiate himſelf in the Kings favour muſt venture at ſomething of conſe<g ref="char:EOLhyphen"/>quence. That hee the Priſoner had concerted the execution of a Deſigne upon which his fortune depended, that it was indeed a matter not without hazard, but the greater the difficultys were, the more would bee the Honour, encouraging Leefdale to bee concern'd in it. And the ſaid Leefdale shewing a readyneſs to com<g ref="char:EOLhyphen"/>ply with him, the priſoner open'd himſelf with greater freedome, &amp; told him that hee was engaged laſt Campagne with one Du Mont to aſſaſſinate the King of great Britain, but it had no effect by reaſon of his Majeſt. leaving the Army ſo Soone, but it was reſolved again to putt the ſame in execution this year. That Du Mont by many repeated Oaths had ſworne hee would do it, &amp; hee the priſoner feared, that if hee were not preſent, Du Mont would not ſo exactly obſerve his orders, and therfore hee was re<g ref="char:EOLhyphen"/>ſolved to go along with Du Mont, aſking Leefdale. If hee would bee of the party, who anſwering that hee would the priſoner dis<g ref="char:EOLhyphen"/>courſd to him at large of all particulars concerning the deſigne, and afterwards brought him to Mr. Barbeſieux &amp; Chanlais. That Chanlais in one of the conferences held upon that ſubject, told Leefdale, the Priſoner being by, that a great reward ſhould bee given him, the buſineſs ſucceeding, that Barbeſieux &amp; Paparell had both of them knowledge of the promiſed reward. That hee the Priſoner with the ſaid Leefdale, &amp; Colonell Parker went to St Germain on the 16 of April 1692, to ſpeak with the late King James about the ſaid Deſigne, who had knowledge of it, &amp; to take leave of him, before they began their Journy, that the Pri<g ref="char:EOLhyphen"/>ſoner had Audience at the ſame time of the ſaid King James, the
+<pb n="13" facs="tcp:152749:7"/>late Queen being preſent King James telling him, Parker has gi<g ref="char:EOLhyphen"/>ven me an account of the buſineſs, if you, &amp; the other Officers do me this ſervice, you ſal never want. And Parker, the priſo<g ref="char:EOLhyphen"/>ner &amp; Leefdale enterd into a diſcourſe about this Deſigne. That du Monts Wife deliverd to Mr. Barbeſieux ſeveral Letters, which ſhe received from her Huſband whilſt hee was at Hanover, and the Priſoner continuing his correſpondence with him at the ſaid time, hee engaged du Mont by Letters, &amp; ſpecialy thoſe dated the 20 &amp; 25 of April &amp; the 12 of May laſt, to kome from Hanover to a Rendevous at Uden, in the Country of Raveſteyn, in order to take a finall reſolution with the ſaid Priſoner &amp; Leefdale, concer<g ref="char:EOLhyphen"/>ning the manner of executing the Deſigne, the Priſoner preſ<g ref="char:EOLhyphen"/>ſing du Mont to haſten his journy for fear the King of Engeland ſhould have occaſion to repaſs the ſea, the priſoner adding withall, that hee ſhould bee mad, if hee fail'd in his buſineſs. That the Priſoner with Chanlais &amp; Leefdale were agreed in what manner the Aſſaſſinate should bee committed on the Perſon, of his Maj: viꝪt: that when the King should ride along the Lines, or should go out to take any vieuw, or when the Army should de<g ref="char:EOLhyphen"/>camp, that du Mont shouldly in ambuſcade, and when his Maj: should pas within 100 paces of him, he should rhen fire upon the King, that Chanlais (to whom notice was to bee given before of the time) should bee with 3000 Horſe at the D. of Luxemburgs Grand guard, that the Priſoner had told Leefdale their would bee no danger for hem ſince, du Mont had a ſecret to charme peoples eyes, and at all adventures they two would keep with thoſe, who followed the King, and when every body was purſuing after du Mont, they ſhould have time to eſcape &amp; ſave them ſelves, &amp; carry the account to Mr. Chanlais, and it little concernd them, whither du Mont ſhould bee taken or not, provided they could eſcape them ſelves. That the Priſoner &amp; Leefdale received their laſt orders from Chanlais, who told them hee was going
+<pb n="14" facs="tcp:152749:8"/>to Mons, &amp; that they ſhould ſtay for him there. That the Priſoner &amp; Leefdale went from Paris the 17 of Apr: laſt and arrived a few days after att Mons, having wayted ſome time for Mr. Chanlais arrivall and finding hee did not come, they re<g ref="char:EOLhyphen"/>ſolved to go forward to the rendevouz by the Way of Bruxells: That the Priſoner as they were travelling on the way told Leefda<g ref="char:EOLhyphen"/>le, that their deſigne taking Place, the alliance among the Confoederate Princes would bee broken, that the Princes con<g ref="char:EOLhyphen"/>cern'd would each of them recall their Troopes and the Country being thereby left without Soldiers, the King of France would easely make himſelf Maſter of it. And K: James would bee re<g ref="char:EOLhyphen"/>ſtored again: That the Priſoner with Leefdale went to the Maye<g ref="char:EOLhyphen"/>ry of Boiſleduc, &amp; was apprehended att Eyndhoven. And whe<g ref="char:EOLhyphen"/>reas this horrid deſign is contrary to the Laws of God, of Nature, and of all Nations, and ought for the deterring of others, from the like machinations to be puniſhed with the greateſt rigour. The ſaid Court Martial, having with mature deliberation, exa<g ref="char:EOLhyphen"/>min'd &amp; conſidered the whole matter, have thought fit to Judge &amp; declare, as they doe hereby declare, the Priſoner to bee guilty of high treaſon, and doe condemn him to be drawn on a Hedge to the Place of Execution, there to be hangd en a Gallows, to be cut donn before he be dead, his Body to be opened, and his Bo<g ref="char:EOLhyphen"/>wells to be taken out, and burnt; his head to be ſet upon a Pole, his Body to be quarterd, and the four quarters to be hung up where his Maj: shall think fit; and doe further declare all his Eſtate to be confiſcated, and condemn him to bear the Charges and Coſts of this Tryall. Given and pronounced in the Head-Quarters of the Army, under the Command of his Maj: of Great Brittain, by the Earl of Athlone, Gen: of the Horſe, Praeſident; the Lt: Gen: van Scravenmoere, and Lt: Gener: Talmaſh, the Marquis de la Foreſt, the Heer van Weede, Comte Noyells, and the Heer Zobel, Majors Gen:, and the Brigadiers Churchill &amp; Ram<g ref="char:EOLhyphen"/>ſey,
+<pb n="15" facs="tcp:152749:8"/>Cornelius van Wouw, and Richard Uthwayt, Judges Advo<g ref="char:EOLhyphen"/>cates.</p>
+               <closer>
+                  <dateline>Aſſiſting at Lembeek <date>the 11 of Aug: 1692.</date>
+                  </dateline>
+                  <signed>Signed, <hi>Athlone.</hi>
+                  </signed> And lower, <signed>By Ord: of the Court Martial. <hi>Thomas du Val.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
